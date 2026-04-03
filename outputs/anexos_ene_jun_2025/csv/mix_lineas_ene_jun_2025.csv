@@ -1,0 +1,5 @@
+linea,facturacion_pct,margen_pct,share_facturacion,share_margen,facturacion_usd_aprox,margen_usd_aprox,ratio_share_margen_sobre_fact
+Linea_A,35.0,40.0,0.35,0.4,42000.0,18000.0,1.142857142857143
+Linea_B,25.0,20.0,0.25,0.2,30000.0,9000.0,0.8
+Linea_C,20.0,15.0,0.2,0.15,24000.0,6750.0,0.7499999999999999
+Linea_D,20.0,25.0,0.2,0.25,24000.0,11250.0,1.25

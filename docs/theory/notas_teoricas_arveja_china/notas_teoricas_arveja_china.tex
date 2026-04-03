@@ -1,0 +1,382 @@
+\documentclass[11pt,a4paper]{article}
+
+% -------------------------------------------------
+% PAQUETES
+% -------------------------------------------------
+\usepackage[spanish,es-nodecimaldot]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{amsmath,amssymb}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{csquotes}
+
+% -------------------------------------------------
+% FORMATO
+% -------------------------------------------------
+\setstretch{1.08}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue!50!black,
+    citecolor=blue!50!black,
+    urlcolor=blue!50!black,
+    pdftitle={Notas teóricas sobre arveja china y producción agrícola bajo incertidumbre},
+    pdfauthor={Danilo Zegarra Herrera}
+}
+
+\title{\textbf{Notas teóricas para entender la producción de arveja china}\\
+\large Una introducción pedagógica desde una perspectiva físico-biológica}
+\author{Danilo Zegarra Herrera}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section*{Propósito}
+
+Estas notas buscan construir una base conceptual general para entender el problema de producir \textbf{arveja china} (o, más ampliamente, arveja fresca orientada a vaina comercial) en una ventana de mercado potencialmente muy rentable. El objetivo no es reemplazar una recomendación agronómica específica de campo, sino ofrecer un \textbf{marco teórico} que permita pensar con claridad las variables esenciales del sistema: clima, agua, localización, suelo, sanidad, fisiología del cultivo, mano de obra, costos y precio de mercado.
+
+La idea central es que este problema no debe verse como una simple decisión sobre \enquote{qué producto químico usar}, sino como un problema de \textbf{optimización bajo incertidumbre}. El productor busca escoger una combinación de sitio, fecha de siembra, manejo hídrico, manejo fitosanitario y estrategia de cosecha que maximice la probabilidad de llegar temprano al mercado con producto vendible, costo controlado y riesgo aceptable.
+
+\section{El cultivo como sistema multivariable}
+
+El cultivo puede entenderse como un sistema abierto que intercambia materia y energía con su entorno. Desde una perspectiva general, la producción final depende de la interacción entre:
+
+\begin{itemize}[leftmargin=1.5em]
+    \item \textbf{ambiente}: temperatura, radiación, humedad relativa, viento, lluvia;
+    \item \textbf{suelo}: textura, estructura, drenaje, pH, fertilidad, materia orgánica;
+    \item \textbf{agua}: cantidad, oportunidad, calidad, uniformidad del riego;
+    \item \textbf{genética}: variedad, precocidad, vigor inicial, susceptibilidad;
+    \item \textbf{sanidad}: insectos, ácaros, hongos, bacterias, virus;
+    \item \textbf{economía}: costo de semilla, insumos, transporte, mano de obra y precio de venta;
+    \item \textbf{tiempo}: velocidad de desarrollo y ventana comercial.
+\end{itemize}
+
+Una forma compacta de expresar esta lógica es:
+
+\[
+Q = Q\!\left(T,\; R,\; W,\; S,\; N,\; G,\; P,\; M,\; t\right),
+\]
+
+donde \(Q\) representa la producción comercializable, \(T\) la temperatura, \(R\) la radiación, \(W\) el agua disponible, \(S\) las propiedades del suelo, \(N\) la nutrición, \(G\) la genética, \(P\) la presión de plagas y enfermedades, \(M\) el manejo agronómico y \(t\) el tiempo.
+
+\section{El eje central: llegar temprano con producto vendible}
+
+En el caso discutido, el punto clave no es únicamente el rendimiento final, sino la capacidad de \textbf{producir rápidamente} y entrar a una temporada de precios altos. Por eso conviene distinguir entre dos objetivos posibles:
+
+\begin{enumerate}[leftmargin=1.6em]
+    \item \textbf{maximizar rendimiento total}, y
+    \item \textbf{maximizar valor económico dentro de una ventana temporal corta}.
+\end{enumerate}
+
+Estas metas no siempre coinciden. Un manejo que maximiza toneladas por hectárea puede no ser el que optimiza el ingreso si el precio cae antes de cosechar. Desde el punto de vista económico, interesa más la utilidad esperada:
+
+\[
+\Pi = P \cdot Q - C_{\text{semilla}} - C_{\text{agua}} - C_{\text{agroquímicos}} - C_{\text{mano\,de\,obra}} - C_{\text{transporte}} - C_{\text{pérdidas}},
+\]
+
+donde \(\Pi\) es la utilidad, \(P\) el precio de venta y \(Q\) la cantidad comercializable.
+
+En este contexto, la variable \textbf{tiempo a cosecha comercial} se vuelve casi tan importante como el rendimiento mismo.
+
+\section{Fenología: tres etapas para pensar el manejo}
+
+Pedagógicamente, resulta útil dividir el cultivo en tres etapas generales.
+
+\subsection{1. Establecimiento: semilla, emergencia y arraigue}
+
+En esta fase se juega gran parte del éxito posterior. Los objetivos son:
+
+\begin{itemize}[leftmargin=1.5em]
+    \item lograr una emergencia rápida y uniforme;
+    \item reducir pérdidas por hongos de suelo y pudriciones tempranas;
+    \item promover raíces sanas y una buena nodulación, si corresponde;
+    \item evitar fallas de stand.
+\end{itemize}
+
+Físicamente, esta etapa depende mucho de la relación entre:
+\begin{itemize}[leftmargin=1.5em]
+    \item temperatura del suelo,
+    \item humedad disponible,
+    \item aireación,
+    \item drenaje,
+    \item calidad sanitaria de la semilla.
+\end{itemize}
+
+Un suelo muy frío o saturado puede retardar emergencia y favorecer problemas de \emph{damping off} o pudrición radicular. Un suelo muy seco puede impedir una germinación pareja. Por eso, el establecimiento es una etapa en la que el balance agua--oxígeno en el suelo es crítico.
+
+\subsection{2. Crecimiento vegetativo}
+
+Aquí la planta construye área foliar, tallos, raíces funcionales y capacidad fotosintética. El objetivo ya no es solo \enquote{sobrevivir}, sino crear una estructura vegetal capaz de sostener floración y llenado de vainas.
+
+En esta etapa importan especialmente:
+\begin{itemize}[leftmargin=1.5em]
+    \item radiación interceptada,
+    \item temperatura media diaria,
+    \item disponibilidad hídrica,
+    \item competencia con malezas,
+    \item equilibrio nutricional,
+    \item presión de insectos chupadores y minadores.
+\end{itemize}
+
+Desde una perspectiva física, puede pensarse como una fase de \textbf{expansión del sistema colector de energía} de la planta. Más área foliar útil implica mayor capacidad de captar radiación, pero también mayor demanda de agua y mayor superficie expuesta a plagas y enfermedades.
+
+\subsection{3. Floración, amarre y llenado de vaina}
+
+Esta fase determina la fracción del crecimiento que efectivamente se transforma en producto comercial. Aquí aparecen problemas típicos de:
+\begin{itemize}[leftmargin=1.5em]
+    \item aborto floral,
+    \item caída de estructuras reproductivas,
+    \item baja calidad de vaina,
+    \item enfermedades foliares,
+    \item estrés hídrico o térmico.
+\end{itemize}
+
+En términos conceptuales, esta etapa es una fase de \textbf{conversión y partición}: la planta redistribuye carbono, agua y nutrientes hacia órganos reproductivos. Si el sistema sufre desequilibrio en este momento, el impacto económico suele ser desproporcionado.
+
+\section{Variables ambientales clave}
+
+\subsection{Temperatura}
+
+La arveja es, en términos generales, un cultivo de clima fresco. Esto no significa que toda temperatura alta sea automáticamente imposible, pero sí implica que el comportamiento del cultivo cambia mucho con el entorno térmico. Temperaturas excesivas pueden alterar velocidad de desarrollo, favorecer ciertas plagas y afectar calidad del producto.
+
+Para entender esto de fondo, conviene pensar en:
+\begin{itemize}[leftmargin=1.5em]
+    \item tasa de germinación;
+    \item tasa de respiración;
+    \item tasa fotosintética neta;
+    \item duración de las etapas fenológicas.
+\end{itemize}
+
+Una forma sencilla de verlo es que el cultivo tiene una \textbf{ventana térmica útil}: demasiado frío ralentiza; demasiado calor estresa y puede desbalancear la fisiología.
+
+\subsection{Agua}
+
+En cultivos hortícolas, el agua no es simplemente una variable de cantidad, sino también de \textbf{oportunidad} y \textbf{uniformidad}. Dos campos con la misma dotación total de agua pueden comportarse de manera muy distinta si:
+
+\begin{itemize}[leftmargin=1.5em]
+    \item uno riega con exceso y mal drenaje;
+    \item el otro aplica riegos oportunos y controlados.
+\end{itemize}
+
+El agua interviene simultáneamente en:
+\begin{itemize}[leftmargin=1.5em]
+    \item turgencia celular,
+    \item transporte de nutrientes,
+    \item apertura estomática,
+    \item enfriamiento de la planta,
+    \item desarrollo radicular.
+\end{itemize}
+
+Desde una visión física, el problema hídrico puede verse como un balance entre entradas, almacenamiento en el suelo, extracción por raíces y pérdidas por evapotranspiración.
+
+\subsection{Suelo}
+
+El suelo no debe pensarse solo como \enquote{soporte} de la planta. Es un medio físico-químico-biológico complejo. Sus propiedades determinan:
+\begin{itemize}[leftmargin=1.5em]
+    \item infiltración,
+    \item retención de agua,
+    \item aireación,
+    \item disponibilidad de nutrientes,
+    \item actividad microbiana,
+    \item riesgo de enfermedades de raíz.
+\end{itemize}
+
+Para un análisis serio del lote, importa al menos conocer:
+\begin{itemize}[leftmargin=1.5em]
+    \item textura,
+    \item drenaje,
+    \item pH,
+    \item materia orgánica,
+    \item salinidad,
+    \item historial sanitario.
+\end{itemize}
+
+\section{Plagas, enfermedades y manejo por etapas}
+
+Desde un punto de vista general, el sistema fitosanitario cambia con la etapa fenológica.
+
+\subsection*{Etapa inicial}
+Suelen ser importantes:
+\begin{itemize}[leftmargin=1.5em]
+    \item hongos de suelo,
+    \item pudriciones de raíz y cuello,
+    \item gusanos cortadores,
+    \item problemas asociados a mala emergencia.
+\end{itemize}
+
+\subsection*{Etapa vegetativa}
+Aumenta la relevancia de:
+\begin{itemize}[leftmargin=1.5em]
+    \item insectos chupadores,
+    \item minadores,
+    \item ácaros,
+    \item competencia con malezas.
+\end{itemize}
+
+\subsection*{Etapa reproductiva}
+Pasan a pesar más:
+\begin{itemize}[leftmargin=1.5em]
+    \item enfermedades foliares,
+    \item daño en flor y vaina,
+    \item pérdida de calidad comercial.
+\end{itemize}
+
+La lección importante es que no existe una sola respuesta universal. El manejo correcto no es \enquote{echar un producto fuerte}, sino elegir estrategias compatibles con:
+\begin{itemize}[leftmargin=1.5em]
+    \item diagnóstico real del problema,
+    \item etapa del cultivo,
+    \item clima local,
+    \item intervalo de seguridad,
+    \item costo-beneficio.
+\end{itemize}
+
+\section{Trabajo, logística y riesgo económico}
+
+Un error común es subestimar la mano de obra. Si el costo diario sube bruscamente, el problema deja de ser solo agronómico y se vuelve logístico. En cultivos con ventanas de mercado estrechas, el costo de cosecha, selección, empaque y transporte puede cambiar radicalmente la rentabilidad esperada.
+
+En ese sentido, la agricultura aquí debe verse como un problema de \textbf{riesgo acoplado}:
+\begin{itemize}[leftmargin=1.5em]
+    \item riesgo climático,
+    \item riesgo sanitario,
+    \item riesgo de mercado,
+    \item riesgo laboral,
+    \item riesgo logístico.
+\end{itemize}
+
+Una decisión agronómica razonable no es necesariamente la que maximiza una variable aislada, sino la que mejora el equilibrio global del sistema.
+
+\section{Mapa mental para un no agrónomo}
+
+Para una persona formada en física, una forma útil de ordenar el problema es la siguiente:
+
+\begin{center}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{p{3.2cm} p{5.6cm} p{4.8cm}}
+\toprule
+\textbf{Bloque} & \textbf{Pregunta central} & \textbf{Tipo de variable} \\
+\midrule
+Clima & ¿El ambiente acelera o frena el desarrollo y qué plagas favorece? & Temperatura, humedad, viento, radiación \\
+Agua & ¿La planta puede sostener crecimiento y floración sin estrés? & Riego, evapotranspiración, drenaje \\
+Suelo & ¿El medio permite raíces sanas y nutrición estable? & Textura, pH, materia orgánica, salinidad \\
+Fenología & ¿En qué etapa está la planta y qué necesita ahora? & Emergencia, vegetativo, floración \\
+Sanidad & ¿Qué problema domina y cuándo intervenir? & Insectos, hongos, ácaros, virus \\
+Economía & ¿La ventana de precio compensa el costo y el riesgo? & Precio, mano de obra, insumos, transporte \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\section{Conclusión general}
+
+El punto más importante es el siguiente: la producción temprana de arveja para capturar una buena ventana de precio no es un problema de receta química, sino un problema de \textbf{diseño de sistema}. La pregunta correcta no es \enquote{qué producto aplicar}, sino:
+
+\begin{quote}
+¿qué combinación de sitio, fecha, riego, manejo sanitario, nutrición y logística maximiza la probabilidad de llegar temprano al mercado con producto comercializable y costo controlado?
+\end{quote}
+
+Ese es el eje central.
+
+\section{Bibliografía recomendada para entender de fondo el problema}
+
+\subsection*{A. Fuentes aplicadas sobre arveja, sanidad y manejo agronómico}
+
+\begin{thebibliography}{99}
+
+\bibitem{senasa-arveja}
+SENASA.
+\newblock \emph{Guía para la implementación de buenas prácticas agrícolas para el cultivo de arveja}.
+\newblock Perú.
+\newblock Disponible en: \url{https://www.senasa.gob.pe/senasa/descargasarchivos/2020/07/Guia-BPA-ARVEJA.pdf}
+
+\bibitem{usda-pea}
+USDA NRCS.
+\newblock \emph{Plant Fact Sheet: Pea (\textit{Pisum sativum} L.)}.
+\newblock United States Department of Agriculture.
+\newblock Disponible en: \url{https://plants.usda.gov/DocumentLibrary/factsheet/pdf/fs_pisa6.pdf}
+
+\bibitem{inia-guia}
+Briones Vásquez, A.
+\newblock \emph{Guía de producción comercial de arveja}.
+\newblock INIA, Perú, 2016.
+\newblock Disponible en: \url{https://repositorio.inia.gob.pe/items/72ab6516-b98b-46fd-bcc6-362ecd4e9620}
+
+\bibitem{inia-folleto}
+Monge, E. O. P.
+\newblock \emph{Folleto arveja}.
+\newblock INIA, Perú, 2004.
+\newblock Disponible en: \url{https://repositorio.inia.gob.pe/bitstreams/c938ee06-d901-4275-87c9-9988f1c97e8b/download}
+
+\bibitem{inia-pudricion}
+Pinillos Monge, E. O.
+\newblock \emph{Manejo integrado de la pudrición radicular en el cultivo de arveja (\textit{Pisum sativum})}.
+\newblock INIA, Perú.
+\newblock Disponible en: \url{https://repositorio.inia.gob.pe/items/2ef3deb6-6f46-45fd-a289-0f2f79b36213}
+
+\bibitem{inia-tecnologia}
+Nicho Salas, P. E.
+\newblock \emph{Tecnología de manejo de cultivo de arveja (\textit{Pisum sativum})}.
+\newblock INIA, Perú, 2021.
+\newblock Disponible en: \url{https://repositorio.inia.gob.pe/items/3c87e6f2-811d-48b3-b0b2-5e4ace7d0ff8}
+
+\bibitem{fao-pea}
+FAO.
+\newblock \emph{Crop information: Pea}.
+\newblock Disponible en: \url{https://www.fao.org/land-water/databases-and-software/crop-information/pea/es/}
+
+\bibitem{fao-water}
+FAO.
+\newblock \emph{Crop Water Needs}.
+\newblock Disponible en: \url{https://www.fao.org/4/s2022e/s2022e07.htm}
+
+\subsection*{B. Bibliografía general para entender la base física, química y biológica}
+
+\bibitem{taiz}
+Taiz, L., Zeiger, E., Møller, I. M., Murphy, A.
+\newblock \emph{Plant Physiology and Development}.
+\newblock Sinauer / Oxford University Press.
+\newblock Recomendado para comprender fotosíntesis, respiración, relaciones hídricas, hormonas y desarrollo.
+
+\bibitem{brady}
+Brady, N. C., Weil, R. R.
+\newblock \emph{The Nature and Properties of Soils}.
+\newblock Pearson.
+\newblock Recomendado para entender física y química de suelos, agua en el suelo y fertilidad.
+
+\bibitem{marschner}
+Marschner, P.
+\newblock \emph{Marschner's Mineral Nutrition of Higher Plants}.
+\newblock Academic Press.
+\newblock Recomendado para nutrición mineral y fisiología de absorción.
+
+\bibitem{monteith}
+Monteith, J. L., Unsworth, M. H.
+\newblock \emph{Principles of Environmental Physics}.
+\newblock Academic Press.
+\newblock Excelente para balance de energía, microclima, intercambio agua--atmósfera y bases biofísicas del cultivo.
+
+\bibitem{allen}
+Allen, R. G., Pereira, L. S., Raes, D., Smith, M.
+\newblock \emph{Crop Evapotranspiration: Guidelines for Computing Crop Water Requirements}.
+\newblock FAO Irrigation and Drainage Paper 56.
+\newblock Texto central para riego y evapotranspiración.
+
+\bibitem{mip}
+Flint, M. L.
+\newblock \emph{Integrated Pest Management for Crops and Pastures}.
+\newblock University of California / IPM approach.
+\newblock Recomendado para aprender a pensar el control fitosanitario como manejo integrado y no como receta.
+
+\end{thebibliography}
+
+\section*{Observación final}
+
+Estas notas deben leerse como una base conceptual. Para decidir productos específicos, dosis, ingredientes activos y momentos de aplicación, se requiere diagnóstico agronómico local, verificación de registros vigentes y evaluación económica del sistema real.
+
+\end{document}

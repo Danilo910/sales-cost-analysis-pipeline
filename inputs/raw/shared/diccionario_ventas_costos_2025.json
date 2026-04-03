@@ -1,0 +1,3255 @@
+{
+  "Linea_A": {
+    "MAVEN X 0.8K": {
+      "precio_costo": 12.53,
+      "ENERO": {
+        "unidades": 116,
+        "valor": 1453.48
+      },
+      "FEBRERO": {
+        "unidades": 99,
+        "valor": 1240.47
+      },
+      "MARZO": {
+        "unidades": 96,
+        "valor": 1202.88
+      },
+      "ABRIL": {
+        "unidades": 83,
+        "valor": 1039.99
+      },
+      "MAYO": {
+        "unidades": 72,
+        "valor": 902.16
+      },
+      "JUNIO": {
+        "unidades": 75,
+        "valor": 939.75
+      },
+      "JULIO": {
+        "unidades": 75,
+        "valor": 939.75
+      },
+      "AGOSTO": {
+        "unidades": 74,
+        "valor": 927.22
+      },
+      "SETIEMBRE": {
+        "unidades": 85,
+        "valor": 1065.05
+      },
+      "OCTUBRE": {
+        "unidades": 87,
+        "valor": 1090.11
+      },
+      "NOVIEMBRE": {
+        "unidades": 97,
+        "valor": 1215.41
+      },
+      "DICIEMBRE": {
+        "unidades": 11,
+        "valor": 137.83
+      },
+      "TOTAL_COSTO": {
+        "unidades": 970,
+        "valor": 12154.1
+      },
+      "TOTAL_VENTA": {
+        "unidades": 970,
+        "valor": 21399.0
+      }
+    },
+    "TALON X 0.2K": {
+      "precio_costo": 10.33,
+      "ENERO": {
+        "unidades": 7,
+        "valor": 72.31
+      },
+      "FEBRERO": {
+        "unidades": 78,
+        "valor": 805.74
+      },
+      "MARZO": {
+        "unidades": 75,
+        "valor": 774.75
+      },
+      "ABRIL": {
+        "unidades": 68,
+        "valor": 702.44
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 75,
+        "valor": 774.75
+      },
+      "JULIO": {
+        "unidades": 64,
+        "valor": 661.12
+      },
+      "AGOSTO": {
+        "unidades": 71,
+        "valor": 733.43
+      },
+      "SETIEMBRE": {
+        "unidades": 66,
+        "valor": 681.78
+      },
+      "OCTUBRE": {
+        "unidades": 72,
+        "valor": 743.76
+      },
+      "NOVIEMBRE": {
+        "unidades": 88,
+        "valor": 909.04
+      },
+      "DICIEMBRE": {
+        "unidades": 81,
+        "valor": 836.73
+      },
+      "TOTAL_COSTO": {
+        "unidades": 745,
+        "valor": 7695.85
+      },
+      "TOTAL_VENTA": {
+        "unidades": 745,
+        "valor": 13337.19
+      }
+    },
+    "CALDOR X 1K": {
+      "precio_costo": 12.52,
+      "ENERO": {
+        "unidades": 98,
+        "valor": 1226.96
+      },
+      "FEBRERO": {
+        "unidades": 91,
+        "valor": 1139.32
+      },
+      "MARZO": {
+        "unidades": 3,
+        "valor": 37.56
+      },
+      "ABRIL": {
+        "unidades": 4,
+        "valor": 50.08
+      },
+      "MAYO": {
+        "unidades": 72,
+        "valor": 901.44
+      },
+      "JUNIO": {
+        "unidades": 68,
+        "valor": 851.36
+      },
+      "JULIO": {
+        "unidades": 69,
+        "valor": 863.88
+      },
+      "AGOSTO": {
+        "unidades": 68,
+        "valor": 851.36
+      },
+      "SETIEMBRE": {
+        "unidades": 79,
+        "valor": 989.08
+      },
+      "OCTUBRE": {
+        "unidades": 5,
+        "valor": 62.6
+      },
+      "NOVIEMBRE": {
+        "unidades": 83,
+        "valor": 1039.16
+      },
+      "DICIEMBRE": {
+        "unidades": 9,
+        "valor": 112.68
+      },
+      "TOTAL_COSTO": {
+        "unidades": 649,
+        "valor": 8125.48
+      },
+      "TOTAL_VENTA": {
+        "unidades": 649,
+        "valor": 14230.2
+      }
+    },
+    "AURON X 0.5K": {
+      "precio_costo": 4.75,
+      "ENERO": {
+        "unidades": 90,
+        "valor": 427.5
+      },
+      "FEBRERO": {
+        "unidades": 1,
+        "valor": 4.75
+      },
+      "MARZO": {
+        "unidades": 75,
+        "valor": 356.25
+      },
+      "ABRIL": {
+        "unidades": 66,
+        "valor": 313.5
+      },
+      "MAYO": {
+        "unidades": 6,
+        "valor": 28.5
+      },
+      "JUNIO": {
+        "unidades": 72,
+        "valor": 342.0
+      },
+      "JULIO": {
+        "unidades": 67,
+        "valor": 318.25
+      },
+      "AGOSTO": {
+        "unidades": 68,
+        "valor": 323.0
+      },
+      "SETIEMBRE": {
+        "unidades": 7,
+        "valor": 33.25
+      },
+      "OCTUBRE": {
+        "unidades": 74,
+        "valor": 351.5
+      },
+      "NOVIEMBRE": {
+        "unidades": 83,
+        "valor": 394.25
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 609,
+        "valor": 2892.75
+      },
+      "TOTAL_VENTA": {
+        "unidades": 609,
+        "valor": 4916.71
+      }
+    },
+    "BRAVIK X 0.2K": {
+      "precio_costo": 6.6,
+      "ENERO": {
+        "unidades": 5,
+        "valor": 33.0
+      },
+      "FEBRERO": {
+        "unidades": 3,
+        "valor": 19.8
+      },
+      "MARZO": {
+        "unidades": 6,
+        "valor": 39.6
+      },
+      "ABRIL": {
+        "unidades": 55,
+        "valor": 363.0
+      },
+      "MAYO": {
+        "unidades": 7,
+        "valor": 46.2
+      },
+      "JUNIO": {
+        "unidades": 59,
+        "valor": 389.4
+      },
+      "JULIO": {
+        "unidades": 3,
+        "valor": 19.8
+      },
+      "AGOSTO": {
+        "unidades": 49,
+        "valor": 323.4
+      },
+      "SETIEMBRE": {
+        "unidades": 53,
+        "valor": 349.8
+      },
+      "OCTUBRE": {
+        "unidades": 61,
+        "valor": 402.6
+      },
+      "NOVIEMBRE": {
+        "unidades": 64,
+        "valor": 422.4
+      },
+      "DICIEMBRE": {
+        "unidades": 72,
+        "valor": 475.2
+      },
+      "TOTAL_COSTO": {
+        "unidades": 437,
+        "valor": 2884.2
+      },
+      "TOTAL_VENTA": {
+        "unidades": 437,
+        "valor": 5124.77
+      }
+    },
+    "VELTAR X 1K": {
+      "precio_costo": 7.42,
+      "ENERO": {
+        "unidades": 76,
+        "valor": 563.92
+      },
+      "FEBRERO": {
+        "unidades": 7,
+        "valor": 51.94
+      },
+      "MARZO": {
+        "unidades": 61,
+        "valor": 452.62
+      },
+      "ABRIL": {
+        "unidades": 62,
+        "valor": 460.04
+      },
+      "MAYO": {
+        "unidades": 56,
+        "valor": 415.52
+      },
+      "JUNIO": {
+        "unidades": 5,
+        "valor": 37.1
+      },
+      "JULIO": {
+        "unidades": 5,
+        "valor": 37.1
+      },
+      "AGOSTO": {
+        "unidades": 55,
+        "valor": 408.1
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 2,
+        "valor": 14.84
+      },
+      "NOVIEMBRE": {
+        "unidades": 9,
+        "valor": 66.78
+      },
+      "DICIEMBRE": {
+        "unidades": 4,
+        "valor": 29.68
+      },
+      "TOTAL_COSTO": {
+        "unidades": 342,
+        "valor": 2537.64
+      },
+      "TOTAL_VENTA": {
+        "unidades": 342,
+        "valor": 4470.08
+      }
+    },
+    "KORVIN X 1K": {
+      "precio_costo": 10.32,
+      "ENERO": {
+        "unidades": 67,
+        "valor": 691.44
+      },
+      "FEBRERO": {
+        "unidades": 58,
+        "valor": 598.56
+      },
+      "MARZO": {
+        "unidades": 3,
+        "valor": 30.96
+      },
+      "ABRIL": {
+        "unidades": 57,
+        "valor": 588.24
+      },
+      "MAYO": {
+        "unidades": 55,
+        "valor": 567.6
+      },
+      "JUNIO": {
+        "unidades": 56,
+        "valor": 577.92
+      },
+      "JULIO": {
+        "unidades": 55,
+        "valor": 567.6
+      },
+      "AGOSTO": {
+        "unidades": 4,
+        "valor": 41.28
+      },
+      "SETIEMBRE": {
+        "unidades": 52,
+        "valor": 536.64
+      },
+      "OCTUBRE": {
+        "unidades": 55,
+        "valor": 567.6
+      },
+      "NOVIEMBRE": {
+        "unidades": 2,
+        "valor": 20.64
+      },
+      "DICIEMBRE": {
+        "unidades": 69,
+        "valor": 712.08
+      },
+      "TOTAL_COSTO": {
+        "unidades": 533,
+        "valor": 5500.56
+      },
+      "TOTAL_VENTA": {
+        "unidades": 533,
+        "valor": 9388.5
+      }
+    },
+    "TRIGON X 1L": {
+      "precio_costo": 10.01,
+      "ENERO": {
+        "unidades": 2,
+        "valor": 20.02
+      },
+      "FEBRERO": {
+        "unidades": 4,
+        "valor": 40.04
+      },
+      "MARZO": {
+        "unidades": 5,
+        "valor": 50.05
+      },
+      "ABRIL": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MAYO": {
+        "unidades": 2,
+        "valor": 20.02
+      },
+      "JUNIO": {
+        "unidades": 5,
+        "valor": 50.05
+      },
+      "JULIO": {
+        "unidades": 4,
+        "valor": 40.04
+      },
+      "AGOSTO": {
+        "unidades": 4,
+        "valor": 40.04
+      },
+      "SETIEMBRE": {
+        "unidades": 6,
+        "valor": 60.06
+      },
+      "OCTUBRE": {
+        "unidades": 4,
+        "valor": 40.04
+      },
+      "NOVIEMBRE": {
+        "unidades": 3,
+        "valor": 30.03
+      },
+      "DICIEMBRE": {
+        "unidades": 52,
+        "valor": 520.52
+      },
+      "TOTAL_COSTO": {
+        "unidades": 91,
+        "valor": 910.91
+      },
+      "TOTAL_VENTA": {
+        "unidades": 91,
+        "valor": 1551.13
+      }
+    },
+    "SERAL X 1L": {
+      "precio_costo": 6.78,
+      "ENERO": {
+        "unidades": 3,
+        "valor": 20.34
+      },
+      "FEBRERO": {
+        "unidades": 43,
+        "valor": 291.54
+      },
+      "MARZO": {
+        "unidades": 41,
+        "valor": 277.98
+      },
+      "ABRIL": {
+        "unidades": 3,
+        "valor": 20.34
+      },
+      "MAYO": {
+        "unidades": 39,
+        "valor": 264.42
+      },
+      "JUNIO": {
+        "unidades": 36,
+        "valor": 244.08
+      },
+      "JULIO": {
+        "unidades": 4,
+        "valor": 27.12
+      },
+      "AGOSTO": {
+        "unidades": 5,
+        "valor": 33.9
+      },
+      "SETIEMBRE": {
+        "unidades": 6,
+        "valor": 40.68
+      },
+      "OCTUBRE": {
+        "unidades": 42,
+        "valor": 284.76
+      },
+      "NOVIEMBRE": {
+        "unidades": 43,
+        "valor": 291.54
+      },
+      "DICIEMBRE": {
+        "unidades": 50,
+        "valor": 339.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 315,
+        "valor": 2135.7
+      },
+      "TOTAL_VENTA": {
+        "unidades": 315,
+        "valor": 3744.51
+      }
+    },
+    "DRAKOR X 0.5L": {
+      "precio_costo": 4.68,
+      "ENERO": {
+        "unidades": 55,
+        "valor": 257.4
+      },
+      "FEBRERO": {
+        "unidades": 5,
+        "valor": 23.4
+      },
+      "MARZO": {
+        "unidades": 4,
+        "valor": 18.72
+      },
+      "ABRIL": {
+        "unidades": 7,
+        "valor": 32.76
+      },
+      "MAYO": {
+        "unidades": 42,
+        "valor": 196.56
+      },
+      "JUNIO": {
+        "unidades": 43,
+        "valor": 201.24
+      },
+      "JULIO": {
+        "unidades": 35,
+        "valor": 163.8
+      },
+      "AGOSTO": {
+        "unidades": 40,
+        "valor": 187.2
+      },
+      "SETIEMBRE": {
+        "unidades": 5,
+        "valor": 23.4
+      },
+      "OCTUBRE": {
+        "unidades": 49,
+        "valor": 229.32
+      },
+      "NOVIEMBRE": {
+        "unidades": 48,
+        "valor": 224.64
+      },
+      "DICIEMBRE": {
+        "unidades": 7,
+        "valor": 32.76
+      },
+      "TOTAL_COSTO": {
+        "unidades": 340,
+        "valor": 1591.2
+      },
+      "TOTAL_VENTA": {
+        "unidades": 340,
+        "valor": 2697.34
+      }
+    },
+    "RAVEX X 0.25L": {
+      "precio_costo": 2.23,
+      "ENERO": {
+        "unidades": 58,
+        "valor": 129.34
+      },
+      "FEBRERO": {
+        "unidades": 48,
+        "valor": 107.04
+      },
+      "MARZO": {
+        "unidades": 44,
+        "valor": 98.12
+      },
+      "ABRIL": {
+        "unidades": 46,
+        "valor": 102.58
+      },
+      "MAYO": {
+        "unidades": 5,
+        "valor": 11.15
+      },
+      "JUNIO": {
+        "unidades": 4,
+        "valor": 8.92
+      },
+      "JULIO": {
+        "unidades": 3,
+        "valor": 6.69
+      },
+      "AGOSTO": {
+        "unidades": 39,
+        "valor": 86.97
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 2.23
+      },
+      "OCTUBRE": {
+        "unidades": 43,
+        "valor": 95.89
+      },
+      "NOVIEMBRE": {
+        "unidades": 1,
+        "valor": 2.23
+      },
+      "DICIEMBRE": {
+        "unidades": 5,
+        "valor": 11.15
+      },
+      "TOTAL_COSTO": {
+        "unidades": 297,
+        "valor": 662.31
+      },
+      "TOTAL_VENTA": {
+        "unidades": 297,
+        "valor": 1176.02
+      }
+    }
+  },
+  "Linea_B": {
+    "DALVEN X 1L": {
+      "precio_costo": 11.7,
+      "ENERO": {
+        "unidades": 109,
+        "valor": 1275.3
+      },
+      "FEBRERO": {
+        "unidades": 6,
+        "valor": 70.2
+      },
+      "MARZO": {
+        "unidades": 48,
+        "valor": 561.6
+      },
+      "ABRIL": {
+        "unidades": 49,
+        "valor": 573.3
+      },
+      "MAYO": {
+        "unidades": 41,
+        "valor": 479.7
+      },
+      "JUNIO": {
+        "unidades": 47,
+        "valor": 549.9
+      },
+      "JULIO": {
+        "unidades": 4,
+        "valor": 46.8
+      },
+      "AGOSTO": {
+        "unidades": 49,
+        "valor": 573.3
+      },
+      "SETIEMBRE": {
+        "unidades": 56,
+        "valor": 655.2
+      },
+      "OCTUBRE": {
+        "unidades": 51,
+        "valor": 596.7
+      },
+      "NOVIEMBRE": {
+        "unidades": 62,
+        "valor": 725.4
+      },
+      "DICIEMBRE": {
+        "unidades": 58,
+        "valor": 678.6
+      },
+      "TOTAL_COSTO": {
+        "unidades": 580,
+        "valor": 6786.0
+      },
+      "TOTAL_VENTA": {
+        "unidades": 580,
+        "valor": 9685.01
+      }
+    },
+    "GLARIX X 1L": {
+      "precio_costo": 11.71,
+      "ENERO": {
+        "unidades": 48,
+        "valor": 562.08
+      },
+      "FEBRERO": {
+        "unidades": 46,
+        "valor": 538.66
+      },
+      "MARZO": {
+        "unidades": 41,
+        "valor": 480.11
+      },
+      "ABRIL": {
+        "unidades": 38,
+        "valor": 444.98
+      },
+      "MAYO": {
+        "unidades": 35,
+        "valor": 409.85
+      },
+      "JUNIO": {
+        "unidades": 36,
+        "valor": 421.56
+      },
+      "JULIO": {
+        "unidades": 39,
+        "valor": 456.69
+      },
+      "AGOSTO": {
+        "unidades": 41,
+        "valor": 480.11
+      },
+      "SETIEMBRE": {
+        "unidades": 46,
+        "valor": 538.66
+      },
+      "OCTUBRE": {
+        "unidades": 43,
+        "valor": 503.53
+      },
+      "NOVIEMBRE": {
+        "unidades": 47,
+        "valor": 550.37
+      },
+      "DICIEMBRE": {
+        "unidades": 45,
+        "valor": 526.95
+      },
+      "TOTAL_COSTO": {
+        "unidades": 505,
+        "valor": 5913.55
+      },
+      "TOTAL_VENTA": {
+        "unidades": 505,
+        "valor": 8382.95
+      }
+    },
+    "SOLVEN X 5L": {
+      "precio_costo": 24.91,
+      "ENERO": {
+        "unidades": 18,
+        "valor": 448.38
+      },
+      "FEBRERO": {
+        "unidades": 14,
+        "valor": 348.74
+      },
+      "MARZO": {
+        "unidades": 14,
+        "valor": 348.74
+      },
+      "ABRIL": {
+        "unidades": 14,
+        "valor": 348.74
+      },
+      "MAYO": {
+        "unidades": 15,
+        "valor": 373.65
+      },
+      "JUNIO": {
+        "unidades": 13,
+        "valor": 323.83
+      },
+      "JULIO": {
+        "unidades": 14,
+        "valor": 348.74
+      },
+      "AGOSTO": {
+        "unidades": 17,
+        "valor": 423.47
+      },
+      "SETIEMBRE": {
+        "unidades": 15,
+        "valor": 373.65
+      },
+      "OCTUBRE": {
+        "unidades": 15,
+        "valor": 373.65
+      },
+      "NOVIEMBRE": {
+        "unidades": 18,
+        "valor": 448.38
+      },
+      "DICIEMBRE": {
+        "unidades": 17,
+        "valor": 423.47
+      },
+      "TOTAL_COSTO": {
+        "unidades": 184,
+        "valor": 4583.44
+      },
+      "TOTAL_VENTA": {
+        "unidades": 184,
+        "valor": 6328.23
+      }
+    },
+    "KELVON X 1L": {
+      "precio_costo": 6.1,
+      "ENERO": {
+        "unidades": 4,
+        "valor": 24.4
+      },
+      "FEBRERO": {
+        "unidades": 5,
+        "valor": 30.5
+      },
+      "MARZO": {
+        "unidades": 42,
+        "valor": 256.2
+      },
+      "ABRIL": {
+        "unidades": 40,
+        "valor": 244.0
+      },
+      "MAYO": {
+        "unidades": 1,
+        "valor": 6.1
+      },
+      "JUNIO": {
+        "unidades": 34,
+        "valor": 207.4
+      },
+      "JULIO": {
+        "unidades": 1,
+        "valor": 6.1
+      },
+      "AGOSTO": {
+        "unidades": 42,
+        "valor": 256.2
+      },
+      "SETIEMBRE": {
+        "unidades": 3,
+        "valor": 18.3
+      },
+      "OCTUBRE": {
+        "unidades": 2,
+        "valor": 12.2
+      },
+      "NOVIEMBRE": {
+        "unidades": 5,
+        "valor": 30.5
+      },
+      "DICIEMBRE": {
+        "unidades": 6,
+        "valor": 36.6
+      },
+      "TOTAL_COSTO": {
+        "unidades": 185,
+        "valor": 1128.5
+      },
+      "TOTAL_VENTA": {
+        "unidades": 185,
+        "valor": 1633.93
+      }
+    },
+    "VOLTREX X 20L": {
+      "precio_costo": 66.8,
+      "ENERO": {
+        "unidades": 6,
+        "valor": 400.8
+      },
+      "FEBRERO": {
+        "unidades": 5,
+        "valor": 334.0
+      },
+      "MARZO": {
+        "unidades": 5,
+        "valor": 334.0
+      },
+      "ABRIL": {
+        "unidades": 5,
+        "valor": 334.0
+      },
+      "MAYO": {
+        "unidades": 4,
+        "valor": 267.2
+      },
+      "JUNIO": {
+        "unidades": 1,
+        "valor": 66.8
+      },
+      "JULIO": {
+        "unidades": 5,
+        "valor": 334.0
+      },
+      "AGOSTO": {
+        "unidades": 5,
+        "valor": 334.0
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 66.8
+      },
+      "OCTUBRE": {
+        "unidades": 6,
+        "valor": 400.8
+      },
+      "NOVIEMBRE": {
+        "unidades": 6,
+        "valor": 400.8
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 49,
+        "valor": 3273.2
+      },
+      "TOTAL_VENTA": {
+        "unidades": 49,
+        "valor": 4645.29
+      }
+    },
+    "RANSOR X 200L": {
+      "precio_costo": 1342.55,
+      "ENERO": {
+        "unidades": 2,
+        "valor": 2685.1
+      },
+      "FEBRERO": {
+        "unidades": 3,
+        "valor": 4027.65
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 2685.1
+      },
+      "ABRIL": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 2,
+        "valor": 2685.1
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 2,
+        "valor": 2685.1
+      },
+      "OCTUBRE": {
+        "unidades": 3,
+        "valor": 4027.65
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 3,
+        "valor": 4027.65
+      },
+      "TOTAL_COSTO": {
+        "unidades": 17,
+        "valor": 22823.35
+      },
+      "TOTAL_VENTA": {
+        "unidades": 17,
+        "valor": 31549.49
+      }
+    },
+    "RENOVA X 0.25L": {
+      "precio_costo": 3.54,
+      "ENERO": {
+        "unidades": 54,
+        "valor": 191.16
+      },
+      "FEBRERO": {
+        "unidades": 3,
+        "valor": 10.62
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 7.08
+      },
+      "ABRIL": {
+        "unidades": 45,
+        "valor": 159.3
+      },
+      "MAYO": {
+        "unidades": 4,
+        "valor": 14.16
+      },
+      "JUNIO": {
+        "unidades": 43,
+        "valor": 152.22
+      },
+      "JULIO": {
+        "unidades": 40,
+        "valor": 141.6
+      },
+      "AGOSTO": {
+        "unidades": 42,
+        "valor": 148.68
+      },
+      "SETIEMBRE": {
+        "unidades": 45,
+        "valor": 159.3
+      },
+      "OCTUBRE": {
+        "unidades": 6,
+        "valor": 21.24
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 1,
+        "valor": 3.54
+      },
+      "TOTAL_COSTO": {
+        "unidades": 285,
+        "valor": 1008.9
+      },
+      "TOTAL_VENTA": {
+        "unidades": 285,
+        "valor": 1427.4
+      }
+    }
+  },
+  "Linea_C": {
+    "HUMEX X 1K": {
+      "precio_costo": 5.11,
+      "ENERO": {
+        "unidades": 23,
+        "valor": 117.53
+      },
+      "FEBRERO": {
+        "unidades": 39,
+        "valor": 199.29
+      },
+      "MARZO": {
+        "unidades": 1,
+        "valor": 5.11
+      },
+      "ABRIL": {
+        "unidades": 44,
+        "valor": 224.84
+      },
+      "MAYO": {
+        "unidades": 44,
+        "valor": 224.84
+      },
+      "JUNIO": {
+        "unidades": 46,
+        "valor": 235.06
+      },
+      "JULIO": {
+        "unidades": 41,
+        "valor": 209.51
+      },
+      "AGOSTO": {
+        "unidades": 37,
+        "valor": 189.07
+      },
+      "SETIEMBRE": {
+        "unidades": 42,
+        "valor": 214.62
+      },
+      "OCTUBRE": {
+        "unidades": 44,
+        "valor": 224.84
+      },
+      "NOVIEMBRE": {
+        "unidades": 40,
+        "valor": 204.4
+      },
+      "DICIEMBRE": {
+        "unidades": 45,
+        "valor": 229.95
+      },
+      "TOTAL_COSTO": {
+        "unidades": 446,
+        "valor": 2279.06
+      },
+      "TOTAL_VENTA": {
+        "unidades": 446,
+        "valor": 3105.67
+      }
+    },
+    "FLORAX X 10K": {
+      "precio_costo": 67.57,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 3,
+        "valor": 202.71
+      },
+      "MARZO": {
+        "unidades": 3,
+        "valor": 202.71
+      },
+      "ABRIL": {
+        "unidades": 4,
+        "valor": 270.28
+      },
+      "MAYO": {
+        "unidades": 4,
+        "valor": 270.28
+      },
+      "JUNIO": {
+        "unidades": 3,
+        "valor": 202.71
+      },
+      "JULIO": {
+        "unidades": 3,
+        "valor": 202.71
+      },
+      "AGOSTO": {
+        "unidades": 4,
+        "valor": 270.28
+      },
+      "SETIEMBRE": {
+        "unidades": 3,
+        "valor": 202.71
+      },
+      "OCTUBRE": {
+        "unidades": 3,
+        "valor": 202.71
+      },
+      "NOVIEMBRE": {
+        "unidades": 3,
+        "valor": 202.71
+      },
+      "DICIEMBRE": {
+        "unidades": 4,
+        "valor": 270.28
+      },
+      "TOTAL_COSTO": {
+        "unidades": 37,
+        "valor": 2500.09
+      },
+      "TOTAL_VENTA": {
+        "unidades": 37,
+        "valor": 3478.0
+      }
+    },
+    "TRYVON X 20L": {
+      "precio_costo": 59.07,
+      "ENERO": {
+        "unidades": 6,
+        "valor": 354.42
+      },
+      "FEBRERO": {
+        "unidades": 6,
+        "valor": 354.42
+      },
+      "MARZO": {
+        "unidades": 7,
+        "valor": 413.49
+      },
+      "ABRIL": {
+        "unidades": 7,
+        "valor": 413.49
+      },
+      "MAYO": {
+        "unidades": 6,
+        "valor": 354.42
+      },
+      "JUNIO": {
+        "unidades": 7,
+        "valor": 413.49
+      },
+      "JULIO": {
+        "unidades": 6,
+        "valor": 354.42
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 6,
+        "valor": 354.42
+      },
+      "OCTUBRE": {
+        "unidades": 7,
+        "valor": 413.49
+      },
+      "NOVIEMBRE": {
+        "unidades": 6,
+        "valor": 354.42
+      },
+      "DICIEMBRE": {
+        "unidades": 8,
+        "valor": 472.56
+      },
+      "TOTAL_COSTO": {
+        "unidades": 72,
+        "valor": 4253.04
+      },
+      "TOTAL_VENTA": {
+        "unidades": 72,
+        "valor": 5907.52
+      }
+    },
+    "TANGOR X 20L": {
+      "precio_costo": 51.92,
+      "ENERO": {
+        "unidades": 6,
+        "valor": 311.52
+      },
+      "FEBRERO": {
+        "unidades": 1,
+        "valor": 51.92
+      },
+      "MARZO": {
+        "unidades": 7,
+        "valor": 363.44
+      },
+      "ABRIL": {
+        "unidades": 7,
+        "valor": 363.44
+      },
+      "MAYO": {
+        "unidades": 1,
+        "valor": 51.92
+      },
+      "JUNIO": {
+        "unidades": 7,
+        "valor": 363.44
+      },
+      "JULIO": {
+        "unidades": 1,
+        "valor": 51.92
+      },
+      "AGOSTO": {
+        "unidades": 7,
+        "valor": 363.44
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 7,
+        "valor": 363.44
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 1,
+        "valor": 51.92
+      },
+      "TOTAL_COSTO": {
+        "unidades": 45,
+        "valor": 2336.4
+      },
+      "TOTAL_VENTA": {
+        "unidades": 45,
+        "valor": 3299.07
+      }
+    },
+    "PHOSMIX X 20L": {
+      "precio_costo": 47.5,
+      "ENERO": {
+        "unidades": 6,
+        "valor": 285.0
+      },
+      "FEBRERO": {
+        "unidades": 6,
+        "valor": 285.0
+      },
+      "MARZO": {
+        "unidades": 7,
+        "valor": 332.5
+      },
+      "ABRIL": {
+        "unidades": 6,
+        "valor": 285.0
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 1,
+        "valor": 47.5
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 47.5
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 1,
+        "valor": 47.5
+      },
+      "TOTAL_COSTO": {
+        "unidades": 28,
+        "valor": 1330.0
+      },
+      "TOTAL_VENTA": {
+        "unidades": 28,
+        "valor": 1848.48
+      }
+    },
+    "MAXTER X 20L": {
+      "precio_costo": 97.13,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 1,
+        "valor": 97.13
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MAYO": {
+        "unidades": 1,
+        "valor": 97.13
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 5,
+        "valor": 485.65
+      },
+      "AGOSTO": {
+        "unidades": 5,
+        "valor": 485.65
+      },
+      "SETIEMBRE": {
+        "unidades": 5,
+        "valor": 485.65
+      },
+      "OCTUBRE": {
+        "unidades": 1,
+        "valor": 97.13
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 6,
+        "valor": 582.78
+      },
+      "TOTAL_COSTO": {
+        "unidades": 24,
+        "valor": 2331.12
+      },
+      "TOTAL_VENTA": {
+        "unidades": 24,
+        "valor": 3195.03
+      }
+    },
+    "AMIVEX X 1L": {
+      "precio_costo": 10.7,
+      "ENERO": {
+        "unidades": 27,
+        "valor": 288.9
+      },
+      "FEBRERO": {
+        "unidades": 1,
+        "valor": 10.7
+      },
+      "MARZO": {
+        "unidades": 27,
+        "valor": 288.9
+      },
+      "ABRIL": {
+        "unidades": 28,
+        "valor": 299.6
+      },
+      "MAYO": {
+        "unidades": 31,
+        "valor": 331.7
+      },
+      "JUNIO": {
+        "unidades": 1,
+        "valor": 10.7
+      },
+      "JULIO": {
+        "unidades": 25,
+        "valor": 267.5
+      },
+      "AGOSTO": {
+        "unidades": 24,
+        "valor": 256.8
+      },
+      "SETIEMBRE": {
+        "unidades": 25,
+        "valor": 267.5
+      },
+      "OCTUBRE": {
+        "unidades": 25,
+        "valor": 267.5
+      },
+      "NOVIEMBRE": {
+        "unidades": 27,
+        "valor": 288.9
+      },
+      "DICIEMBRE": {
+        "unidades": 28,
+        "valor": 299.6
+      },
+      "TOTAL_COSTO": {
+        "unidades": 269,
+        "valor": 2878.3
+      },
+      "TOTAL_VENTA": {
+        "unidades": 269,
+        "valor": 3894.03
+      }
+    },
+    "CALTRON X 250GRM": {
+      "precio_costo": 1.92,
+      "ENERO": {
+        "unidades": 35,
+        "valor": 67.2
+      },
+      "FEBRERO": {
+        "unidades": 42,
+        "valor": 80.64
+      },
+      "MARZO": {
+        "unidades": 38,
+        "valor": 72.96
+      },
+      "ABRIL": {
+        "unidades": 3,
+        "valor": 5.76
+      },
+      "MAYO": {
+        "unidades": 45,
+        "valor": 86.4
+      },
+      "JUNIO": {
+        "unidades": 3,
+        "valor": 5.76
+      },
+      "JULIO": {
+        "unidades": 40,
+        "valor": 76.8
+      },
+      "AGOSTO": {
+        "unidades": 38,
+        "valor": 72.96
+      },
+      "SETIEMBRE": {
+        "unidades": 38,
+        "valor": 72.96
+      },
+      "OCTUBRE": {
+        "unidades": 39,
+        "valor": 74.88
+      },
+      "NOVIEMBRE": {
+        "unidades": 42,
+        "valor": 80.64
+      },
+      "DICIEMBRE": {
+        "unidades": 42,
+        "valor": 80.64
+      },
+      "TOTAL_COSTO": {
+        "unidades": 405,
+        "valor": 777.6
+      },
+      "TOTAL_VENTA": {
+        "unidades": 405,
+        "valor": 1051.27
+      }
+    },
+    "NUTRION X 1L": {
+      "precio_costo": 11.64,
+      "ENERO": {
+        "unidades": 3,
+        "valor": 34.92
+      },
+      "FEBRERO": {
+        "unidades": 3,
+        "valor": 34.92
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 23.28
+      },
+      "ABRIL": {
+        "unidades": 25,
+        "valor": 291.0
+      },
+      "MAYO": {
+        "unidades": 25,
+        "valor": 291.0
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 1,
+        "valor": 11.64
+      },
+      "AGOSTO": {
+        "unidades": 1,
+        "valor": 11.64
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 11.64
+      },
+      "OCTUBRE": {
+        "unidades": 23,
+        "valor": 267.72
+      },
+      "NOVIEMBRE": {
+        "unidades": 2,
+        "valor": 23.28
+      },
+      "DICIEMBRE": {
+        "unidades": 22,
+        "valor": 256.08
+      },
+      "TOTAL_COSTO": {
+        "unidades": 108,
+        "valor": 1257.12
+      },
+      "TOTAL_VENTA": {
+        "unidades": 108,
+        "valor": 1772.99
+      }
+    },
+    "ROOTEN X 5L": {
+      "precio_costo": 28.44,
+      "ENERO": {
+        "unidades": 1,
+        "valor": 28.44
+      },
+      "FEBRERO": {
+        "unidades": 7,
+        "valor": 199.08
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 7,
+        "valor": 199.08
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 7,
+        "valor": 199.08
+      },
+      "JULIO": {
+        "unidades": 1,
+        "valor": 28.44
+      },
+      "AGOSTO": {
+        "unidades": 6,
+        "valor": 170.64
+      },
+      "SETIEMBRE": {
+        "unidades": 6,
+        "valor": 170.64
+      },
+      "OCTUBRE": {
+        "unidades": 1,
+        "valor": 28.44
+      },
+      "NOVIEMBRE": {
+        "unidades": 7,
+        "valor": 199.08
+      },
+      "DICIEMBRE": {
+        "unidades": 7,
+        "valor": 199.08
+      },
+      "TOTAL_COSTO": {
+        "unidades": 50,
+        "valor": 1422.0
+      },
+      "TOTAL_VENTA": {
+        "unidades": 50,
+        "valor": 2007.92
+      }
+    },
+    "SUPRAK X 20L": {
+      "precio_costo": 80.31,
+      "ENERO": {
+        "unidades": 2,
+        "valor": 160.62
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 2,
+        "valor": 160.62
+      },
+      "MAYO": {
+        "unidades": 3,
+        "valor": 240.93
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 2,
+        "valor": 160.62
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 2,
+        "valor": 160.62
+      },
+      "NOVIEMBRE": {
+        "unidades": 1,
+        "valor": 80.31
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 12,
+        "valor": 963.72
+      },
+      "TOTAL_VENTA": {
+        "unidades": 12,
+        "valor": 1331.91
+      }
+    },
+    "FOLTRIX X 20L": {
+      "precio_costo": 48.88,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 97.76
+      },
+      "ABRIL": {
+        "unidades": 2,
+        "valor": 97.76
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 2,
+        "valor": 97.76
+      },
+      "JULIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 2,
+        "valor": 97.76
+      },
+      "NOVIEMBRE": {
+        "unidades": 2,
+        "valor": 97.76
+      },
+      "DICIEMBRE": {
+        "unidades": 2,
+        "valor": 97.76
+      },
+      "TOTAL_COSTO": {
+        "unidades": 12,
+        "valor": 586.56
+      },
+      "TOTAL_VENTA": {
+        "unidades": 12,
+        "valor": 817.28
+      }
+    },
+    "VIGRAN X 20L": {
+      "precio_costo": 84.24,
+      "ENERO": {
+        "unidades": 1,
+        "valor": 84.24
+      },
+      "FEBRERO": {
+        "unidades": 2,
+        "valor": 168.48
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MAYO": {
+        "unidades": 2,
+        "valor": 168.48
+      },
+      "JUNIO": {
+        "unidades": 2,
+        "valor": 168.48
+      },
+      "JULIO": {
+        "unidades": 2,
+        "valor": 168.48
+      },
+      "AGOSTO": {
+        "unidades": 1,
+        "valor": 84.24
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 2,
+        "valor": 168.48
+      },
+      "TOTAL_COSTO": {
+        "unidades": 12,
+        "valor": 1010.88
+      },
+      "TOTAL_VENTA": {
+        "unidades": 12,
+        "valor": 1411.65
+      }
+    },
+    "KELNOVA X 1L": {
+      "precio_costo": 5.93,
+      "ENERO": {
+        "unidades": 7,
+        "valor": 41.51
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 1,
+        "valor": 5.93
+      },
+      "ABRIL": {
+        "unidades": 9,
+        "valor": 53.37
+      },
+      "MAYO": {
+        "unidades": 10,
+        "valor": 59.3
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 9,
+        "valor": 53.37
+      },
+      "AGOSTO": {
+        "unidades": 8,
+        "valor": 47.44
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 5.93
+      },
+      "OCTUBRE": {
+        "unidades": 8,
+        "valor": 47.44
+      },
+      "NOVIEMBRE": {
+        "unidades": 9,
+        "valor": 53.37
+      },
+      "DICIEMBRE": {
+        "unidades": 1,
+        "valor": 5.93
+      },
+      "TOTAL_COSTO": {
+        "unidades": 63,
+        "valor": 373.59
+      },
+      "TOTAL_VENTA": {
+        "unidades": 63,
+        "valor": 517.6
+      }
+    },
+    "AGRIX X 20L": {
+      "precio_costo": 70.69,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 2,
+        "valor": 141.38
+      },
+      "MAYO": {
+        "unidades": 2,
+        "valor": 141.38
+      },
+      "JUNIO": {
+        "unidades": 2,
+        "valor": 141.38
+      },
+      "JULIO": {
+        "unidades": 1,
+        "valor": 70.69
+      },
+      "AGOSTO": {
+        "unidades": 2,
+        "valor": 141.38
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 2,
+        "valor": 141.38
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 2,
+        "valor": 141.38
+      },
+      "TOTAL_COSTO": {
+        "unidades": 13,
+        "valor": 918.97
+      },
+      "TOTAL_VENTA": {
+        "unidades": 13,
+        "valor": 1270.09
+      }
+    },
+    "BONERA X 20L": {
+      "precio_costo": 41.91,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 2,
+        "valor": 83.82
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 2,
+        "valor": 83.82
+      },
+      "JULIO": {
+        "unidades": 2,
+        "valor": 83.82
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 2,
+        "valor": 83.82
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 8,
+        "valor": 335.28
+      },
+      "TOTAL_VENTA": {
+        "unidades": 8,
+        "valor": 453.05
+      }
+    },
+    "MICRONA X 20L": {
+      "precio_costo": 79.06,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 158.12
+      },
+      "ABRIL": {
+        "unidades": 2,
+        "valor": 158.12
+      },
+      "MAYO": {
+        "unidades": 2,
+        "valor": 158.12
+      },
+      "JUNIO": {
+        "unidades": 2,
+        "valor": 158.12
+      },
+      "JULIO": {
+        "unidades": 2,
+        "valor": 158.12
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 2,
+        "valor": 158.12
+      },
+      "TOTAL_COSTO": {
+        "unidades": 12,
+        "valor": 948.72
+      },
+      "TOTAL_VENTA": {
+        "unidades": 12,
+        "valor": 1335.01
+      }
+    },
+    "GUARDEN X 20L": {
+      "precio_costo": 42.89,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 85.78
+      },
+      "ABRIL": {
+        "unidades": 2,
+        "valor": 85.78
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 2,
+        "valor": 85.78
+      },
+      "JULIO": {
+        "unidades": 2,
+        "valor": 85.78
+      },
+      "AGOSTO": {
+        "unidades": 2,
+        "valor": 85.78
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 2,
+        "valor": 85.78
+      },
+      "TOTAL_COSTO": {
+        "unidades": 12,
+        "valor": 514.68
+      },
+      "TOTAL_VENTA": {
+        "unidades": 12,
+        "valor": 701.77
+      }
+    },
+    "Linea_C_Prod_19 X 20L": {
+      "precio_costo": 80.25,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 160.5
+      },
+      "ABRIL": {
+        "unidades": 2,
+        "valor": 160.5
+      },
+      "MAYO": {
+        "unidades": 1,
+        "valor": 80.25
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "AGOSTO": {
+        "unidades": 2,
+        "valor": 160.5
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 7,
+        "valor": 561.75
+      },
+      "TOTAL_VENTA": {
+        "unidades": 7,
+        "valor": 778.65
+      }
+    },
+    "Linea_C_Prod_20 X 20L": {
+      "precio_costo": 76.65,
+      "ENERO": {
+        "unidades": 2,
+        "valor": 153.3
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 76.65
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 3,
+        "valor": 229.95
+      },
+      "TOTAL_VENTA": {
+        "unidades": 3,
+        "valor": 318.01
+      }
+    },
+    "Linea_C_Prod_21 X 1L": {
+      "precio_costo": 7.09,
+      "ENERO": {
+        "unidades": 8,
+        "valor": 56.72
+      },
+      "FEBRERO": {
+        "unidades": 9,
+        "valor": 63.81
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 10,
+        "valor": 70.9
+      },
+      "MAYO": {
+        "unidades": 1,
+        "valor": 7.09
+      },
+      "JUNIO": {
+        "unidades": 10,
+        "valor": 70.9
+      },
+      "JULIO": {
+        "unidades": 1,
+        "valor": 7.09
+      },
+      "AGOSTO": {
+        "unidades": 8,
+        "valor": 56.72
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 10,
+        "valor": 70.9
+      },
+      "NOVIEMBRE": {
+        "unidades": 10,
+        "valor": 70.9
+      },
+      "DICIEMBRE": {
+        "unidades": 10,
+        "valor": 70.9
+      },
+      "TOTAL_COSTO": {
+        "unidades": 77,
+        "valor": 545.93
+      },
+      "TOTAL_VENTA": {
+        "unidades": 77,
+        "valor": 741.99
+      }
+    },
+    "Linea_C_Prod_22 X 1L": {
+      "precio_costo": 6.83,
+      "ENERO": {
+        "unidades": 9,
+        "valor": 61.47
+      },
+      "FEBRERO": {
+        "unidades": 9,
+        "valor": 61.47
+      },
+      "MARZO": {
+        "unidades": 10,
+        "valor": 68.3
+      },
+      "ABRIL": {
+        "unidades": 1,
+        "valor": 6.83
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 10,
+        "valor": 68.3
+      },
+      "JULIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "AGOSTO": {
+        "unidades": 1,
+        "valor": 6.83
+      },
+      "SETIEMBRE": {
+        "unidades": 8,
+        "valor": 54.64
+      },
+      "OCTUBRE": {
+        "unidades": 9,
+        "valor": 61.47
+      },
+      "NOVIEMBRE": {
+        "unidades": 10,
+        "valor": 68.3
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 67,
+        "valor": 457.61
+      },
+      "TOTAL_VENTA": {
+        "unidades": 67,
+        "valor": 625.21
+      }
+    },
+    "Linea_C_Prod_23 X 1L": {
+      "precio_costo": 11.8,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 1,
+        "valor": 11.8
+      },
+      "MARZO": {
+        "unidades": 1,
+        "valor": 11.8
+      },
+      "ABRIL": {
+        "unidades": 1,
+        "valor": 11.8
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 8,
+        "valor": 94.4
+      },
+      "JULIO": {
+        "unidades": 9,
+        "valor": 106.2
+      },
+      "AGOSTO": {
+        "unidades": 1,
+        "valor": 11.8
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 11.8
+      },
+      "OCTUBRE": {
+        "unidades": 1,
+        "valor": 11.8
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 1,
+        "valor": 11.8
+      },
+      "TOTAL_COSTO": {
+        "unidades": 24,
+        "valor": 283.2
+      },
+      "TOTAL_VENTA": {
+        "unidades": 24,
+        "valor": 399.4
+      }
+    },
+    "Linea_C_Prod_24 X 5L": {
+      "precio_costo": 27.13,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MAYO": {
+        "unidades": 1,
+        "valor": 27.13
+      },
+      "JUNIO": {
+        "unidades": 1,
+        "valor": 27.13
+      },
+      "JULIO": {
+        "unidades": 4,
+        "valor": 108.52
+      },
+      "AGOSTO": {
+        "unidades": 4,
+        "valor": 108.52
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 4,
+        "valor": 108.52
+      },
+      "TOTAL_COSTO": {
+        "unidades": 14,
+        "valor": 379.82
+      },
+      "TOTAL_VENTA": {
+        "unidades": 14,
+        "valor": 507.39
+      }
+    },
+    "Linea_C_Prod_25 X 1L": {
+      "precio_costo": 11.72,
+      "ENERO": {
+        "unidades": 1,
+        "valor": 11.72
+      },
+      "FEBRERO": {
+        "unidades": 9,
+        "valor": 105.48
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 23.44
+      },
+      "ABRIL": {
+        "unidades": 11,
+        "valor": 128.92
+      },
+      "MAYO": {
+        "unidades": 1,
+        "valor": 11.72
+      },
+      "JUNIO": {
+        "unidades": 9,
+        "valor": 105.48
+      },
+      "JULIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 11.72
+      },
+      "OCTUBRE": {
+        "unidades": 9,
+        "valor": 105.48
+      },
+      "NOVIEMBRE": {
+        "unidades": 10,
+        "valor": 117.2
+      },
+      "DICIEMBRE": {
+        "unidades": 1,
+        "valor": 11.72
+      },
+      "TOTAL_COSTO": {
+        "unidades": 54,
+        "valor": 632.88
+      },
+      "TOTAL_VENTA": {
+        "unidades": 54,
+        "valor": 889.91
+      }
+    },
+    "Linea_C_Prod_26 X 1L": {
+      "precio_costo": 6.65,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 9,
+        "valor": 59.85
+      },
+      "MARZO": {
+        "unidades": 9,
+        "valor": 59.85
+      },
+      "ABRIL": {
+        "unidades": 10,
+        "valor": 66.5
+      },
+      "MAYO": {
+        "unidades": 11,
+        "valor": 73.15
+      },
+      "JUNIO": {
+        "unidades": 10,
+        "valor": 66.5
+      },
+      "JULIO": {
+        "unidades": 1,
+        "valor": 6.65
+      },
+      "AGOSTO": {
+        "unidades": 8,
+        "valor": 53.2
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 6.65
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 10,
+        "valor": 66.5
+      },
+      "DICIEMBRE": {
+        "unidades": 2,
+        "valor": 13.3
+      },
+      "TOTAL_COSTO": {
+        "unidades": 71,
+        "valor": 472.15
+      },
+      "TOTAL_VENTA": {
+        "unidades": 71,
+        "valor": 657.32
+      }
+    },
+    "Linea_C_Prod_27 X 5L": {
+      "precio_costo": 24.5,
+      "ENERO": {
+        "unidades": 4,
+        "valor": 98.0
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 4,
+        "valor": 98.0
+      },
+      "ABRIL": {
+        "unidades": 4,
+        "valor": 98.0
+      },
+      "MAYO": {
+        "unidades": 4,
+        "valor": 98.0
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "AGOSTO": {
+        "unidades": 4,
+        "valor": 98.0
+      },
+      "SETIEMBRE": {
+        "unidades": 4,
+        "valor": 98.0
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 4,
+        "valor": 98.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 28,
+        "valor": 686.0
+      },
+      "TOTAL_VENTA": {
+        "unidades": 28,
+        "valor": 949.59
+      }
+    },
+    "Linea_C_Prod_28 X 5L": {
+      "precio_costo": 18.53,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 3,
+        "valor": 55.59
+      },
+      "MARZO": {
+        "unidades": 3,
+        "valor": 55.59
+      },
+      "ABRIL": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MAYO": {
+        "unidades": 1,
+        "valor": 18.53
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "AGOSTO": {
+        "unidades": 1,
+        "valor": 18.53
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 8,
+        "valor": 148.24
+      },
+      "TOTAL_VENTA": {
+        "unidades": 8,
+        "valor": 205.25
+      }
+    },
+    "Linea_C_Prod_29 X 17L": {
+      "precio_costo": 49.44,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 98.88
+      },
+      "ABRIL": {
+        "unidades": 2,
+        "valor": 98.88
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 1,
+        "valor": 49.44
+      },
+      "JULIO": {
+        "unidades": 2,
+        "valor": 98.88
+      },
+      "AGOSTO": {
+        "unidades": 1,
+        "valor": 49.44
+      },
+      "SETIEMBRE": {
+        "unidades": 2,
+        "valor": 98.88
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 2,
+        "valor": 98.88
+      },
+      "DICIEMBRE": {
+        "unidades": 2,
+        "valor": 98.88
+      },
+      "TOTAL_COSTO": {
+        "unidades": 14,
+        "valor": 692.16
+      },
+      "TOTAL_VENTA": {
+        "unidades": 14,
+        "valor": 966.6
+      }
+    },
+    "Linea_C_Prod_30 X 20L": {
+      "precio_costo": 82.87,
+      "ENERO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "FEBRERO": {
+        "unidades": 1,
+        "valor": 82.87
+      },
+      "MARZO": {
+        "unidades": 2,
+        "valor": 165.74
+      },
+      "ABRIL": {
+        "unidades": 2,
+        "valor": 165.74
+      },
+      "MAYO": {
+        "unidades": 2,
+        "valor": 165.74
+      },
+      "JUNIO": {
+        "unidades": 2,
+        "valor": 165.74
+      },
+      "JULIO": {
+        "unidades": 1,
+        "valor": 82.87
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 2,
+        "valor": 165.74
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 2,
+        "valor": 165.74
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 14,
+        "valor": 1160.18
+      },
+      "TOTAL_VENTA": {
+        "unidades": 14,
+        "valor": 1596.79
+      }
+    },
+    "Linea_C_Prod_31 X 1K": {
+      "precio_costo": 4.34,
+      "ENERO": {
+        "unidades": 7,
+        "valor": 30.38
+      },
+      "FEBRERO": {
+        "unidades": 9,
+        "valor": 39.06
+      },
+      "MARZO": {
+        "unidades": 8,
+        "valor": 34.72
+      },
+      "ABRIL": {
+        "unidades": 9,
+        "valor": 39.06
+      },
+      "MAYO": {
+        "unidades": 10,
+        "valor": 43.4
+      },
+      "JUNIO": {
+        "unidades": 1,
+        "valor": 4.34
+      },
+      "JULIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "AGOSTO": {
+        "unidades": 7,
+        "valor": 30.38
+      },
+      "SETIEMBRE": {
+        "unidades": 1,
+        "valor": 4.34
+      },
+      "OCTUBRE": {
+        "unidades": 8,
+        "valor": 34.72
+      },
+      "NOVIEMBRE": {
+        "unidades": 1,
+        "valor": 4.34
+      },
+      "DICIEMBRE": {
+        "unidades": 1,
+        "valor": 4.34
+      },
+      "TOTAL_COSTO": {
+        "unidades": 62,
+        "valor": 269.08
+      },
+      "TOTAL_VENTA": {
+        "unidades": 62,
+        "valor": 365.97
+      }
+    },
+    "Linea_C_Prod_32 X 20L": {
+      "precio_costo": 90.68,
+      "ENERO": {
+        "unidades": 1,
+        "valor": 90.68
+      },
+      "FEBRERO": {
+        "unidades": 2,
+        "valor": 181.36
+      },
+      "MARZO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "ABRIL": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "MAYO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JUNIO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "JULIO": {
+        "unidades": 2,
+        "valor": 181.36
+      },
+      "AGOSTO": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "SETIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "OCTUBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "NOVIEMBRE": {
+        "unidades": 2,
+        "valor": 181.36
+      },
+      "DICIEMBRE": {
+        "unidades": 0,
+        "valor": 0.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 7,
+        "valor": 634.76
+      },
+      "TOTAL_VENTA": {
+        "unidades": 7,
+        "valor": 852.01
+      }
+    }
+  },
+  "Linea_D": {
+    "ZEUTEC X 1L": {
+      "precio_costo": 5.88,
+      "ENERO": {
+        "unidades": 105,
+        "valor": 617.4
+      },
+      "FEBRERO": {
+        "unidades": 98,
+        "valor": 576.24
+      },
+      "MARZO": {
+        "unidades": 90,
+        "valor": 529.2
+      },
+      "ABRIL": {
+        "unidades": 88,
+        "valor": 517.44
+      },
+      "MAYO": {
+        "unidades": 98,
+        "valor": 576.24
+      },
+      "JUNIO": {
+        "unidades": 104,
+        "valor": 611.52
+      },
+      "JULIO": {
+        "unidades": 82,
+        "valor": 482.16
+      },
+      "AGOSTO": {
+        "unidades": 84,
+        "valor": 493.92
+      },
+      "SETIEMBRE": {
+        "unidades": 89,
+        "valor": 523.32
+      },
+      "OCTUBRE": {
+        "unidades": 10,
+        "valor": 58.8
+      },
+      "NOVIEMBRE": {
+        "unidades": 89,
+        "valor": 523.32
+      },
+      "DICIEMBRE": {
+        "unidades": 87,
+        "valor": 511.56
+      },
+      "TOTAL_COSTO": {
+        "unidades": 1024,
+        "valor": 6021.12
+      },
+      "TOTAL_VENTA": {
+        "unidades": 1024,
+        "valor": 11516.61
+      }
+    },
+    "RASHEN X 0.25L": {
+      "precio_costo": 3.08,
+      "ENERO": {
+        "unidades": 146,
+        "valor": 449.68
+      },
+      "FEBRERO": {
+        "unidades": 14,
+        "valor": 43.12
+      },
+      "MARZO": {
+        "unidades": 140,
+        "valor": 431.2
+      },
+      "ABRIL": {
+        "unidades": 120,
+        "valor": 369.6
+      },
+      "MAYO": {
+        "unidades": 143,
+        "valor": 440.44
+      },
+      "JUNIO": {
+        "unidades": 144,
+        "valor": 443.52
+      },
+      "JULIO": {
+        "unidades": 119,
+        "valor": 366.52
+      },
+      "AGOSTO": {
+        "unidades": 123,
+        "valor": 378.84
+      },
+      "SETIEMBRE": {
+        "unidades": 131,
+        "valor": 403.48
+      },
+      "OCTUBRE": {
+        "unidades": 131,
+        "valor": 403.48
+      },
+      "NOVIEMBRE": {
+        "unidades": 16,
+        "valor": 49.28
+      },
+      "DICIEMBRE": {
+        "unidades": 14,
+        "valor": 43.12
+      },
+      "TOTAL_COSTO": {
+        "unidades": 1211,
+        "valor": 3729.88
+      },
+      "TOTAL_VENTA": {
+        "unidades": 1211,
+        "valor": 7147.9
+      }
+    },
+    "TRAZOR X 1L": {
+      "precio_costo": 11.13,
+      "ENERO": {
+        "unidades": 80,
+        "valor": 890.4
+      },
+      "FEBRERO": {
+        "unidades": 73,
+        "valor": 812.49
+      },
+      "MARZO": {
+        "unidades": 73,
+        "valor": 812.49
+      },
+      "ABRIL": {
+        "unidades": 77,
+        "valor": 857.01
+      },
+      "MAYO": {
+        "unidades": 91,
+        "valor": 1012.83
+      },
+      "JUNIO": {
+        "unidades": 83,
+        "valor": 923.79
+      },
+      "JULIO": {
+        "unidades": 5,
+        "valor": 55.65
+      },
+      "AGOSTO": {
+        "unidades": 70,
+        "valor": 779.1
+      },
+      "SETIEMBRE": {
+        "unidades": 84,
+        "valor": 934.92
+      },
+      "OCTUBRE": {
+        "unidades": 83,
+        "valor": 923.79
+      },
+      "NOVIEMBRE": {
+        "unidades": 76,
+        "valor": 845.88
+      },
+      "DICIEMBRE": {
+        "unidades": 69,
+        "valor": 767.97
+      },
+      "TOTAL_COSTO": {
+        "unidades": 719,
+        "valor": 8002.47
+      },
+      "TOTAL_VENTA": {
+        "unidades": 719,
+        "valor": 17939.53
+      }
+    },
+    "CONTROLA X 100GRM": {
+      "precio_costo": 2.7,
+      "ENERO": {
+        "unidades": 105,
+        "valor": 283.5
+      },
+      "FEBRERO": {
+        "unidades": 110,
+        "valor": 297.0
+      },
+      "MARZO": {
+        "unidades": 14,
+        "valor": 37.8
+      },
+      "ABRIL": {
+        "unidades": 106,
+        "valor": 286.2
+      },
+      "MAYO": {
+        "unidades": 11,
+        "valor": 29.7
+      },
+      "JUNIO": {
+        "unidades": 114,
+        "valor": 307.8
+      },
+      "JULIO": {
+        "unidades": 12,
+        "valor": 32.4
+      },
+      "AGOSTO": {
+        "unidades": 104,
+        "valor": 280.8
+      },
+      "SETIEMBRE": {
+        "unidades": 109,
+        "valor": 294.3
+      },
+      "OCTUBRE": {
+        "unidades": 122,
+        "valor": 329.4
+      },
+      "NOVIEMBRE": {
+        "unidades": 9,
+        "valor": 24.3
+      },
+      "DICIEMBRE": {
+        "unidades": 110,
+        "valor": 297.0
+      },
+      "TOTAL_COSTO": {
+        "unidades": 807,
+        "valor": 2178.9
+      },
+      "TOTAL_VENTA": {
+        "unidades": 807,
+        "valor": 4710.59
+      }
+    },
+    "VELTIN X 100GRM": {
+      "precio_costo": 1.62,
+      "ENERO": {
+        "unidades": 12,
+        "valor": 19.44
+      },
+      "FEBRERO": {
+        "unidades": 110,
+        "valor": 178.2
+      },
+      "MARZO": {
+        "unidades": 14,
+        "valor": 22.68
+      },
+      "ABRIL": {
+        "unidades": 107,
+        "valor": 173.34
+      },
+      "MAYO": {
+        "unidades": 123,
+        "valor": 199.26
+      },
+      "JUNIO": {
+        "unidades": 1,
+        "valor": 1.62
+      },
+      "JULIO": {
+        "unidades": 86,
+        "valor": 139.32
+      },
+      "AGOSTO": {
+        "unidades": 14,
+        "valor": 22.68
+      },
+      "SETIEMBRE": {
+        "unidades": 104,
+        "valor": 168.48
+      },
+      "OCTUBRE": {
+        "unidades": 110,
+        "valor": 178.2
+      },
+      "NOVIEMBRE": {
+        "unidades": 9,
+        "valor": 14.58
+      },
+      "DICIEMBRE": {
+        "unidades": 13,
+        "valor": 21.06
+      },
+      "TOTAL_COSTO": {
+        "unidades": 681,
+        "valor": 1103.22
+      },
+      "TOTAL_VENTA": {
+        "unidades": 681,
+        "valor": 2080.08
+      }
+    }
+  }
+}

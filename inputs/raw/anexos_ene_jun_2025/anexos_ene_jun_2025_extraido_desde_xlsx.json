@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "fuente": "anexos_input.xlsx",
+    "periodo": "Enero-Junio 2025",
+    "generado_desde_xlsx": true
+  },
+  "totales": {
+    "facturacion_usd": 120000,
+    "margen_usd": 45000
+  },
+  "lineas": [
+    {
+      "linea": "Linea_A",
+      "facturacion_pct": 35.0,
+      "margen_pct": 40.0
+    },
+    {
+      "linea": "Linea_B",
+      "facturacion_pct": 25.0,
+      "margen_pct": 20.0
+    },
+    {
+      "linea": "Linea_C",
+      "facturacion_pct": 20.0,
+      "margen_pct": 15.0
+    },
+    {
+      "linea": "Linea_D",
+      "facturacion_pct": 20.0,
+      "margen_pct": 25.0
+    }
+  ],
+  "zonas": [
+    {
+      "zona": "Zona_1",
+      "ventas_usd": 50000,
+      "ventas_pct": 40.0
+    },
+    {
+      "zona": "Zona_2",
+      "ventas_usd": 30000,
+      "ventas_pct": 25.0
+    },
+    {
+      "zona": "Zona_3",
+      "ventas_usd": 25000,
+      "ventas_pct": 20.0
+    },
+    {
+      "zona": "Zona_4",
+      "ventas_usd": 15000,
+      "ventas_pct": 15.0
+    }
+  ],
+  "comentarios_extraidos_pdf": [
+    "Ejemplo: crecimiento en Linea_A impulsado por mayor demanda.",
+    "Ejemplo: Zona_1 concentra la mayor parte de ventas."
+  ]
+}
